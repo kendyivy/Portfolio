@@ -1,0 +1,172 @@
+.one{
+	width:1350px;
+	height:300px;
+	background-color: white;
+	
+}
+.two{
+	width:1350px;
+	height: 500px;
+	background-color: #1E90FF;
+    position: relative;
+    bottom:15px;
+}
+ .two ul li{
+	display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+    position: relative;
+    left:440px;
+    font-family: 'Roboto', sans-serif;
+
+}
+{box-sizing: border-box}
+
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding: 10px;
+  color: white;
+}
+
+.html {width: 90%; background-color: #4CAF50;}
+.css {width: 80%; background-color: #2196F3;}
+.js {width: 65%; background-color: #f44336;}
+.php {width: 60%; background-color: #808080;}
+.two ul li a {
+    color: White;
+}
+.two button{
+	margin-left: 480px;
+	background-color: gray;
+}
+
+.img{
+	width: 80px;
+	height: 80px;
+	border: solid white;
+	position: relative;
+	bottom: 470px;
+	border-radius: 60px;
+	left: 50px;
+}
+.img img{
+	width: 40px;
+	height: 60px;
+	margin-left: 20px;
+	position: relative;
+	top:10px;
+
+
+}
+.img p{
+	width: 150px;
+	height: 90px;
+	position: relative;
+	left:100px;
+	bottom:80px;
+	color: white;
+	font-size: 15px;
+	font-family: 'Roboto', sans-serif;
+}
+h1{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+    position: relative;
+    bottom:390px;
+    color: white;
+
+}
+h2{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+    position: relative;
+    bottom:390px;
+    color: white;
+
+
+}
+.four{
+  width:1350px;
+  height: 500px;
+
+  
+}
+.four img{
+  width: 200px;
+  height: 200px;
+  position: relative;
+  top:200px;
+  object-fit: cover;
+  left: 100px;
+  border: solid black;
+}
+.five{
+  width: 520px;
+  height: 150px;
+  position: relative;
+  left:350px;
+}
+.six ul li{
+  display: block;
+  font-weight: lighter;
+  position:relative;
+  left:60px;
+  font-family: 'Roboto', sans-serif;
+    
+}
+.six{
+  width:700px;
+  height: 450px;
+  position: relative;
+  bottom:20px;
+  left: 350px;
+}
+.six p{
+  position: relative;
+  left:35px;
+  font-family: 'Roboto', sans-serif;
+}
+.seven{
+  width:500px;
+  height: 400px;
+  position:relative;
+  bottom:80px;
+  left:110px;
+
+}
+
+footer{
+  width:1380px;
+  height: 350px;
+  background-color:gray;
+  position: relative;
+  top: 500px;
+  color: white;
+}
+.fa-copyright{
+  position: relative;
+  left:500px;
+  top:50px;
+}
+footer p{
+  position: relative;
+  left:550px;
+  top:10px;
+}
+footer hr{
+  width: 900px; 
+  position: relative;
+  top:20px;
+}
+footer h3{
+  font-weight: lighter;
+  font-size: 15px;
+  position: relative;
+  left: 650px;
+  top: 35px;
+}

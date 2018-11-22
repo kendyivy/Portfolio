@@ -1,0 +1,163 @@
+
+.two{
+	width:1350px;
+	height: 470px;
+	background-color: #1E90FF;
+  position: relative;
+  bottom:15px;
+}
+
+ul li{
+	display: inline-block;
+  padding: 20px;
+  font-size: 20px;
+  position: relative;
+  left:440px;
+  font-family: 'Roboto', sans-serif;
+
+}
+.two ul li a {
+    color: White;
+}
+.two button{
+	margin-left: 480px;
+	background-color: gray;
+}
+
+.img{
+	width: 80px;
+	height: 80px;
+	border: solid white;
+	position: relative;
+	bottom: 470px;
+	border-radius: 60px;
+	left: 50px;
+}
+.img img{
+	width: 40px;
+	height: 60px;
+	margin-left: 20px;
+	position: relative;
+	top:10px;
+
+
+}
+.img p{
+	width: 150px;
+	height: 90px;
+	position: relative;
+	left:100px;
+	bottom:80px;
+	color: white;
+	font-size: 15px;
+	font-family: 'Roboto', sans-serif;
+}
+h1{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+  position: relative;
+  bottom:390px;
+  color: white;
+
+}
+h2{
+	 text-align: center;
+	 font-family: 'Roboto', sans-serif;
+    position: relative;
+    bottom:390px;
+    color: white;
+}
+.four {
+  width:1350px;
+  height: 800px;
+  background-color: white;
+  position: relative;
+  bottom:250px;
+}
+.sta{
+  width: 550px;
+  height: 700px;
+  background-color: white;
+  position: relative;
+  left:370px;
+  top:50px;
+  padding-bottom: 10px;
+
+}
+.sta p{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  font-family: 'Roboto', sans-serif;
+}
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    font-family: 'Roboto', sans-serif;
+}
+
+input[type=submit] {
+    background-color: #1E90FF;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.container {
+    border-radius: 5px;
+    padding: 20px;
+}
+h3{
+  margin-left: 10px;
+  font-family: 'Roboto', sans-serif;
+}
+footer{
+  width:1380px;
+  height: 350px;
+  background-color:gray;
+  position: relative;
+  top: 930px;
+  color: white;
+}
+.fa-copyright{
+  position: relative;
+  left:500px;
+  top:50px;
+}
+footer p{
+  position: relative;
+  left:550px;
+  top:10px;
+}
+footer hr{
+  width: 900px; 
+  position: relative;
+  top:20px;
+}
+footer h3{
+  font-weight: lighter;
+  font-size: 15px;
+  position: relative;
+  left: 650px;
+  top: 35px;
+}
+
+
+
+
+
+
+
+

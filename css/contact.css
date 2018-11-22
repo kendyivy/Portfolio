@@ -1,0 +1,201 @@
+.one{
+	width:1350px;
+	height:300px;
+	background-color: white;
+	
+}
+.two{
+	width:1350px;
+	height: 460px;
+	background-color: #1E90FF;
+  position: relative;
+  bottom:15px;
+}
+ul li{
+	display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+    position: relative;
+    left:440px;
+    font-family: 'Roboto', sans-serif;
+
+}
+.two ul li a {
+    color: White;
+}
+.two button{
+	margin-left: 480px;
+	background-color: gray;
+}
+
+.img{
+	width: 80px;
+	height: 80px;
+	border: solid white;
+	position: relative;
+	bottom: 430px;
+	border-radius: 60px;
+	left: 50px;
+}
+.img img{
+	width: 40px;
+	height: 60px;
+	margin-left: 20px;
+	position: relative;
+	top:10px;
+
+
+}
+.img p{
+	width: 150px;
+	height: 90px;
+	position: relative;
+	left:100px;
+	bottom:80px;
+	color: white;
+	font-size: 15px;
+	font-family: 'Roboto', sans-serif;
+}
+h1{
+	 text-align: center;
+	 font-family: 'Roboto', sans-serif;
+    position: relative;
+    bottom:320px;
+    color: white;
+
+}
+h2{
+	  text-align: center;
+	  font-family: 'Roboto', sans-serif;
+    position: relative;
+    bottom:390px;
+    color: white;
+}
+.a p{
+  text-align: center;
+  position: relative;
+  bottom: 100px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 40px;
+
+}
+.b{
+  width: 200px;
+  height: 200px;
+  border-radius: 60px;
+  background-color: #DCDCDC;
+  position: relative;
+  bottom: 40px;
+  left: 300px;
+
+}
+.fa-envelope-o{
+  position: relative;
+  top:80px;
+  left:80px;
+
+}
+.b:hover,.b i:hover{
+  background-color: #1E90FF ;
+}
+.b p{
+  position: relative;
+  top:150px;
+  left: 10px;
+  font-family: 'Roboto', sans-serif;
+}
+.c{
+   width: 200px;
+  height: 200px;
+  border-radius: 60px;
+  background-color: #DCDCDC;
+  position: relative;
+  bottom: 240px;
+  left: 600px;
+
+}
+.fa-phone{
+  position: relative;
+  top:80px;
+  left:80px;
+  
+}
+.c p{
+  position: relative;
+  top:150px;
+  left: 45px;
+  font-family: 'Roboto', sans-serif;
+}
+.c:hover,.c i:hover{
+  background-color: #1E90FF ;
+}
+.d{
+  width: 200px;
+  height: 200px;
+  border-radius: 60px;
+  background-color: #DCDCDC;
+  position: relative;
+  bottom: 440px;
+  left: 900px;
+}
+.fa-facebook{
+  position: relative;
+  top:80px;
+  left:80px;
+}
+.d:hover,.d i:hover{
+  background-color: #1E90FF ;
+}
+.d p{
+  position: relative;
+  top:150px;
+  left: 45px;
+  font-family: 'Roboto', sans-serif;
+}
+.four hr{
+  width: 200px;
+  position: relative;
+  bottom:320px;
+}
+iframe{
+  position:relative;
+  left:280px;
+  bottom:290px;
+}
+.e p{
+  position: relative;
+  bottom: 300px;
+  left:650px;
+  font-family: 'Roboto', sans-serif;
+}
+footer{
+  width:1380px;
+  height: 350px;
+  background-color:gray;
+  position: relative;
+  top: 1555px;
+  color: white;
+}
+.fa-copyright{
+  position: relative;
+  left:500px;
+  top:50px;
+}
+footer p{
+  position: relative;
+  left:550px;
+  top:10px;
+}
+footer hr{
+  width: 900px; 
+  position: relative;
+  top:20px;
+}
+footer h3{
+  font-weight: lighter;
+  font-size: 15px;
+  position: relative;
+  left: 650px;
+  top: 35px;
+}
+

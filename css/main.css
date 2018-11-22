@@ -1,0 +1,149 @@
+.one{
+	width:1350px;
+	height:300px;
+	background-color: white;
+	
+}
+.two{
+	width:1350px;
+	height: 500px;
+	background-color: #1E90FF;
+    position: relative;
+    bottom:15px;
+}
+ul li{
+	display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+    position: relative;
+    left:440px;
+    font-family: 'Roboto', sans-serif;
+
+}
+.two ul li a {
+    color: White;
+}
+.two button{
+	margin-left: 480px;
+	background-color: gray;
+}
+
+.img{
+	width: 80px;
+	height: 80px;
+	border: solid white;
+	position: relative;
+	bottom: 470px;
+	border-radius: 60px;
+	left: 50px;
+}
+.img img{
+	width: 40px;
+	height: 60px;
+	margin-left: 20px;
+	position: relative;
+	top:10px;
+
+
+}
+.img p{
+	width: 150px;
+	height: 90px;
+	position: relative;
+	left:100px;
+	bottom:80px;
+	color: white;
+	font-size: 15px;
+	font-family: 'Roboto', sans-serif;
+}
+h1{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+    position: relative;
+    bottom:390px;
+    color: white;
+
+}
+h2{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+    position: relative;
+    bottom:390px;
+    color: white;
+
+
+}
+.dropbtn {
+    background-color: gray;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.viewprofile {
+    position: relative;
+    display: inline-block;
+    left:580px;
+    bottom:400px;
+}
+
+.viewprofile-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 800px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    padding: 15px;
+    height: 400px;
+    padding-top: 15px;
+}
+
+.viewprofile-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.viewprofile-content a:hover {background-color: #f1f1f1}
+
+.viewprofile:hover .viewprofile-content {
+    display: block;
+}
+
+.viewprofile:hover .dropbtn {
+    background-color: #3e8e41;
+}
+footer{
+  width:1380px;
+  height: 350px;
+  background-color:gray;
+  position: relative;
+  top: 130px;
+  color: white;
+}
+.fa-copyright{
+  position: relative;
+  left:500px;
+  top:50px;
+}
+footer p{
+  position: relative;
+  left:550px;
+  top:10px;
+}
+footer hr{
+  width: 900px; 
+  position: relative;
+  top:20px;
+}
+footer h3{
+  font-weight: lighter;
+  font-size: 15px;
+  position: relative;
+  left: 650px;
+  top: 35px;
+}
